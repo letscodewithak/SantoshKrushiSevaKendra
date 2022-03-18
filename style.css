@@ -1,0 +1,17 @@
+#top_nav{
+
+       background-color: #FFFFFFFF !important;
+       padding: 0 2%;
+
+}
+.navbar-light .navbar-nav .nav-link {
+       color: rgb(0 0 0);
+       font-size: 20px;
+       padding-left: 30px;
+   }
+
+   .btn-outline-success {
+       color: #2d1987;
+       border-color: #191b87;
+   }
+ 
